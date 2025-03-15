@@ -1,0 +1,9 @@
+.vscode
+
+server/*/build/*
+
+server/*/bin/server
+
+client/*/build/*
+
+client/*/bin/client
